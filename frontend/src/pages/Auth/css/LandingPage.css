@@ -1,0 +1,42 @@
+/* HomePage.css */
+
+.landing-page {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.w-50 {
+  flex: 1;
+  /* Take up available space */
+}
+
+.w-50 h6 {
+  color: darkorange;
+  font-family: 'Poppins';
+  /* font-size: 16; */
+
+
+}
+
+.w-50 p {
+  color: black;
+  font-size: 50px;
+
+
+  /* font-family: 'Poppins'; */
+  /* font-size: 16; */
+
+
+}
+
+/* .image-section {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  size: 30px;
+  gap: 10px;
+ 
+} */
+
+/* Add any additional styles as needed */

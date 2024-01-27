@@ -1,0 +1,19 @@
+/* RoundUI.css */
+
+.round-ui {
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    background-color: #3498db; /* Set your desired background color */
+    border-radius: 50%; /* Create a circular shape */
+    position: fixed; /* Position the element fixed on the screen */
+    top: 20px; /* Adjust the top position */
+    right: 20px; /* Adjust the right position */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white; /* Set the text color */
+    cursor: pointer;
+  }
+  
+  /* Add any additional styles as needed */
+  
